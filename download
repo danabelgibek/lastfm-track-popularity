@@ -1,0 +1,11 @@
+# data with track and artist names (raw and cleaned) and raw API responses
+*.jsonl
+lastfm_tracks_raw_full.csv
+lastfm_tracks_cleaned.csv
+lastfm_candidates.csv
+# environments and editors
+.venv/
+venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
